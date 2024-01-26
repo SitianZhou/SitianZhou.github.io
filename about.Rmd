@@ -1,8 +1,7 @@
 ---
 title: "About Me"
-author: "Sitian Zhou"
-date: "2024-01-26"
 output: html_document
 ---
 
-Hi, this is Sitian Zhou. I born
+
+Hello, I'm Sitian Zhou! I had the wonderful experience of growing up in a cozy coastal town in Southern China for the first 18 years of my life. The next chapter led me to the University of California, Davis, where I delved into the world of Biotechnology for my undergrad. Now, I find myself at Columbia University, enthusiastically working towards a Master's degree in biostatistics. Life's journey has been quite exciting so far, and I'm thrilled to see where it takes me next!
