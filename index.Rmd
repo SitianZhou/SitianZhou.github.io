@@ -1,6 +1,7 @@
 ---
-title: "index"
-author: "Sitian Zhou"
-date: "2024-01-26"
-output: html_document
+title: "Welcome to Sitian's Website!"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
