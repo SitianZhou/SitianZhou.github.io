@@ -1,5 +1,5 @@
 ---
-title: "projects"
+title: "Projects"
 author: "Sitian Zhou"
 date: "2024-03-18"
 output: html_document
@@ -7,9 +7,8 @@ output: html_document
 
 Check out the orojects I've been working on!
 
-Tableau Visualization: 
+Tableau Visualization: Business Analysis for Dognition
 
-[Business Analysis for Dognition](https://youtu.be/4MPAo26Lyy4)
-
+<iframe width="560" height="315" src="https://youtu.be/4MPAo26Lyy4" frameborder="0" allowfullscreen></iframe>
 
 
