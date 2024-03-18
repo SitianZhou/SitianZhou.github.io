@@ -1,14 +1,19 @@
 ---
 title: "Projects"
-author: "Sitian Zhou"
-date: "2024-03-18"
 output: html_document
 ---
 
 Check out the orojects I've been working on!
 
-Tableau Visualization: Business Analysis for Dognition
+**Tableau Visualization: Business Analysis for Dognition** (Updated Mar.2024)
 
-<iframe width="560" height="315" src="https://youtu.be/4MPAo26Lyy4" frameborder="0" allowfullscreen></iframe>
+[Dognition](https://www.dognition.com/) is a company that offers online games and assessments designed to help dog owners better understand their pet's behavior and cognition. In this project, I investigated the reason behind drop-offs after the completion of each game, created visualizations using calculation fields and table calculations from multiple blend data sources, and presented my solutions using dashboard and story.
 
+* [Screencast](https://youtu.be/4MPAo26Lyy4)
+* [Tableau Pubic Viz](https://public.tableau.com/app/profile/sitian.zhou/viz/coursera_week3_quiz/DognitionAnalysis?publish=yes)
+* Sample plots
+
+<img src="images/plot_weekday.png" style="width:75%">
+
+<img src="images/map.png" style="width:75%">
 
