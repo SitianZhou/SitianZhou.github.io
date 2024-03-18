@@ -1,0 +1,15 @@
+---
+title: "projects"
+author: "Sitian Zhou"
+date: "2024-03-18"
+output: html_document
+---
+
+Check out the orojects I've been working on!
+
+Tableau Visualization: 
+
+[Business Analysis for Dognition](https://youtu.be/4MPAo26Lyy4)
+
+
+
