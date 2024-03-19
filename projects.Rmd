@@ -17,3 +17,9 @@ Check out the orojects I've been working on!
 
 <img src="images/map.png" style="width:75%">
 
+**Heart Disease Prediction** (Updated Feb. 2024)
+
+
+* [GitHub repo](https://github.com/SitianZhou/CHD_prediction)
+
+
