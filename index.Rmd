@@ -6,6 +6,8 @@ output:
     toc_float: true
 ---
 
+<img src="images/wordart.png" style="width:100%">
+<p align="right">*created by wordart.com*</p>
 
 Hello, I'm Sitian Zhou! Growing up in Zhoushan, China, I had the wonderful experience in a cozy coastal town in Southern China for the first 18 years of my life. 
 
