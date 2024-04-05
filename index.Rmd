@@ -1,10 +1,29 @@
 ---
 title: "Welcome to Sitian's Website!"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
+  html_document
 ---
+
+<style>
+.news-section {
+    border: 2px solid #ccc;
+    padding: 10px;
+    font-size: 18px;
+}
+</style>
+
+<div class="news-section">
+
+# <span style="color:black; font-family: Arial, sans-serif;">Latest News</span>
+
+
+**March 25th, 2024**
+
+The paper I coauthored has been accepted for publication!
+
+</div>
+
+
 
 <img src="images/wordart.png" style="width:100%">
 <p align="right">*created by wordart.com*</p>
